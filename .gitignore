@@ -1,0 +1,9 @@
+*.o
+*.out
+*.exe
+core
+core.*
+*.log
+counter.txt
+log.txt
+build/
